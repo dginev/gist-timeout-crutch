@@ -6,13 +6,6 @@
         30500,
         128
       ],
-      "sprite": {
-        "imagePath": "https://camo.githubusercontent.com/26721d3bb8a9a5457b0cf9796a77672b6c3a7d86/68747470733a2f2f692e696d6775722e636f6d2f474c4c335356632e706e67",
-        "singleImageDim": [
-          32,
-          32
-        ]
-      },
       "tensorPath": "https://raw.githubusercontent.com/dginev/gist-timeout-crutch/master/embedding_table.tsv",
       "bookmarksPath": "https://raw.githubusercontent.com/dginev/gist-timeout-crutch/master/bookmarks.txt",
       "metadataPath": "https://raw.githubusercontent.com/dginev/gist-timeout-crutch/master/metadata.tsv"
